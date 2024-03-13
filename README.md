@@ -13,7 +13,7 @@
 <br>
 <div style="display: inline_block; align-items: center;">
   <h1>Skills: </h1>
-  <img align="center" alt="bebel-linux" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27913%2Fsalesforce&psig=AOvVaw1gyAqqMz-kFPqY3KwcC1mn&ust=1710388698143000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPj43ses8IQDFQAAAAAdAAAAABAE"/>
+  <img align="center" alt="bebel-linux" height="30" width="40" src="https://cdn.icon-icons.com/icons2/3245/PNG/512/salesforce_icon_197998.png"/>
   <img align="center" alt="bebel-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img align="center" alt="bebel-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   <img align="center" alt="bebel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
