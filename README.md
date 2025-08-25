@@ -13,7 +13,8 @@
 <br>
 <div style="display: inline_block; align-items: center;">
   <h1>Skills: </h1>
-  <img align="center" alt="salesforce" height="30" width="40" src="https://static-00.iconduck.com/assets.00/salesforce-icon-2048x1434-jxt80iiu.png"/>
+  
+  <img align="center" alt="python" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fpython-logo%2F&psig=AOvVaw3F9YPZD8KywlujVBi4cPEN&ust=1756216783830000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPj7q_-Ppo8DFQAAAAAdAAAAABAE)"/>
   <img align="center" alt="bebel-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img align="center" alt="bebel-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   <img align="center" alt="bebel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,9 +22,6 @@
   <img align="center" alt="bebel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bebel-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="bebel-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-  <h1>In Progress:</h1>
-  <img align="center" alt="bebel-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="bebel-ARDUINO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
           
 </div>
   
